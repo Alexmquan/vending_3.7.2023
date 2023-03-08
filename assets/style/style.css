@@ -1,0 +1,22 @@
+/* BASIC STYLES HERE */
+.card-format {
+  height: 30vh;
+  width: 20vw;
+
+}
+
+.base-style {
+  height: 8vh;
+  width: auto;
+}
+
+.img-style {
+  object-fit: cover;
+  object-position: 30 -43px;
+  height: 22vh;
+  width: 100%;
+}
+
+.background-style {
+  background-color: rgb(52 46 40);
+}
